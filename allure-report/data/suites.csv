@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Test for navigating through welcome screen and logging into the app.","56135","test_login","","Sun Apr 27 12:36:39 BDT 2025","passed","Sun Apr 27 12:37:35 BDT 2025","","appium_test","",""
