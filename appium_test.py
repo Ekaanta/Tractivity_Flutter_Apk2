@@ -218,14 +218,14 @@ def test_login():
                 email_field.click()
                 sleep(1)
                 email_field.clear()
-                email_field.send_keys("bawop41170@cxnlab.com")
+                email_field.send_keys("rancon123@gmail.com")
                 report.add_step("Enter email", "PASS", driver.get_screenshot_as_png())
                 
                 print("Entering password...")
                 password_field.click()
                 sleep(1)
                 password_field.clear()
-                password_field.send_keys("12345678")
+                password_field.send_keys("123")
                 report.add_step("Enter password", "PASS", driver.get_screenshot_as_png())
                 
                 # Find buttons

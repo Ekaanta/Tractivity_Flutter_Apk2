@@ -1,0 +1,3 @@
+*.html
+.allure-report
+.allure-results
